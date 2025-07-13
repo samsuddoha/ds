@@ -1,6 +1,6 @@
 # Data Structures
 
-## Introduction
+## 🆕 Introduction
 Welcome to **Data Structures**, a foundational course in computer science designed to enhance your problem-solving skills and programming efficiency. Offered in **Fall 2025**, this course is divided into two complementary parts:
 - **CSE-1201: Data Structures (Theory, 3 credits)**
 - **CSE-1202: Data Structures Lab (Lab, 0.75 credits)**
@@ -9,10 +9,10 @@ In the theory course, you’ll learn fundamental data structures like arrays, li
 
 The lab course will complement this by providing hands-on programming experience using (C, C++ or Python), where you’ll implement these structures and strengthen your problem-solving skills.
 
-## Description
+## 📝 Description
 This course investigates abstract data types (ADTs), recursion, algorithms for searching and sorting, and basic algorithm analysis. ADTs to be covered include lists, stacks, queues, priority queues, trees, sets, and dictionaries. The emphasis is on the trade-offs associated with implementing alternative data structures for these ADTs. This course will be taught in a language agnostic fashion. Students may choose to develop their work in C, C++, or Python.
 
-## Course Topics
+## 📋 Course Topics
 - Complexity & ADTS
 - Stacks
 - Recursion
@@ -32,11 +32,11 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 - [CSE-1201: Data Structures (Theory)](https://github.com/samsuddoha/ds/blob/main/content_cse_1201.md)
 - [CSE-1202: Data Structures Lab (Lab)](https://github.com/samsuddoha/ds/blob/main/content_cse_1202.md)
 
-## Text Books
+## 📚 Text Books
 - **Introduction to Algorithms** by Thomas H. Cormen (4th Edition) [pdf]()
 - **Data Structures** by Seymour Lipschutz [pdf]()
 
-## Tools
+## 💻 Tools
 - **C/C++**:
   - VS Code
   - Codeblocks/ Netbeans/ Eclipse
@@ -45,7 +45,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
   - Pycharm
   - VS Code
 
-## Class Routine
+## 📅 Class Routine
 | Course   | Day        | Time             | Room |
 |----------|-----------|------------------|------|
 | CSE-1201 | Monday     | 9:00 AM - 10:30 AM| C1   |
