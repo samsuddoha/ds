@@ -33,16 +33,17 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 - [CSE-1202: Data Structures Lab (Lab)](https://github.com/samsuddoha/ds/blob/main/content_cse_1202.md)
 
 ## Text Books
-- Introduction to Algorithms by Thomas H. Cormen (4th Edition)
-- Data Structures by Seymour Lipschutz
+- **Introduction to Algorithms** by Thomas H. Cormen (4th Edition) [pdf]()
+- **Data Structures** by Seymour Lipschutz [pdf]()
 
 ## Tools
-- **C/C++**
- - VS Code
- - Codeblocks/ Netbeans/ Eclipse
-- **Python**
- - Pycharm
- - VS Code
+- **C/C++**:
+  - VS Code
+  - Codeblocks/ Netbeans/ Eclipse
+
+- **Python**:
+  - Pycharm
+  - VS Code
 
 ## Class Routine
 | Course   | Day        | Time             | Room |
