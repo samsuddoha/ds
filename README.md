@@ -25,6 +25,11 @@ This course investigates abstract data types (ADTs), recursion, algorithms for s
 - Search Trees
 - Transposition and Hashing
 
+## Course Contents
+Find the details course contents, marks distribution, assignment with instructions, exam schedule, course resources from the following link:
+[CSE 1201](https://github.com/samsuddoha/ds/blob/main/content_cse_1201.md) and [CSE 1202](https://github.com/samsuddoha/ds/blob/main/content_cse_1202.md)
+
+
 ## Class Routine
 | Course   | Day        | Time             | Room |
 |----------|-----------|------------------|------|
