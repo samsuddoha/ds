@@ -2,8 +2,8 @@
 
 ## Introduction
 Welcome to **Data Structures**, a foundational course in computer science designed to enhance your problem-solving skills and programming efficiency. Offered in **Fall 2025**, this course is divided into two complementary parts:
-- **CSE-1201: Data Structures (Theory)**
-- **CSE-1202: Data Structures Lab (Lab)**
+- **CSE-1201: Data Structures (Theory, 3 credits)**
+- **CSE-1202: Data Structures Lab (Lab, 0.75 credits)**
 
 In the theory course, you’ll learn fundamental data structures like arrays, linked lists, stacks, queues, trees, and graphs, along with essential algorithms for data management and optimization.
 
@@ -25,3 +25,16 @@ This course investigates abstract data types (ADTs), recursion, algorithms for s
 - Search Trees
 - Transposition and Hashing
 
+## Class Routine
+| Course   | Day        | Time             | Room |
+|----------|-----------|------------------|------|
+| CSE-1201 | Monday     | 9:00 AM - 10:30 AM| C1   |
+| CSE-1201 | Wednesday  | 10:30 AM - 12:00 PM | C1 |
+| CSE-1202 | Thursday   | 10:30 AM - 1:30 PM | C1  |
+
+## 👨‍🏫 Course Instructor
+
+**Md Samsuddoha**  
+Assistant Professor, Department of CSE  
+University of Barishal  
+📧 Email: [msamsuddoha@bu.ac.bd](mailto:msamsuddoha@bu.ac.bd)
