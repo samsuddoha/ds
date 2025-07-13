@@ -32,7 +32,17 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 - [CSE-1201: Data Structures (Theory)](https://github.com/samsuddoha/ds/blob/main/content_cse_1201.md)
 - [CSE-1202: Data Structures Lab (Lab)](https://github.com/samsuddoha/ds/blob/main/content_cse_1202.md)
 
+## Text Books
+- Introduction to Algorithms by Thomas H. Cormen (4th Edition)
+- Data Structures by Seymour Lipschutz
 
+## Tools
+- **C/C++**
+ - VS Code
+ - Codeblocks/ Netbeans/ Eclipse
+- **Python**
+ - Pycharm
+ - VS Code
 
 ## Class Routine
 | Course   | Day        | Time             | Room |
@@ -42,8 +52,9 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 | CSE-1202 | Thursday   | 10:30 AM - 1:30 PM | C1  |
 
 ## 👨‍🏫 Course Instructor
-
+If you need any assistance or have queries regarding the course, feel free to contact:
 **Md Samsuddoha**  
 Assistant Professor, Department of CSE  
-University of Barishal  
+University of Barishal
+Room No: 1500
 📧 Email: [msamsuddoha@bu.ac.bd](mailto:msamsuddoha@bu.ac.bd)
