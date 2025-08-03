@@ -35,6 +35,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 ## 📚 Text Books
 - **Introduction to Algorithms** by Thomas H. Cormen (4th Edition) [pdf]()
 - **Data Structures** by Seymour Lipschutz [pdf]()
+- **Algorithms** by Kevin Wayne (4th Edition)[https://mrce.in/ebooks/Algorithms%204th%20Ed.pdf]
 
 ## 💻 Tools
 - **C/C++**:
