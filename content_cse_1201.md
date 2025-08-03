@@ -5,7 +5,7 @@
 
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
-| <b>Lecture 1 </b><br> (Introduction to DS)  | 1 |<ul> <li> Concept of Data Structures </li> </ul>   | [Lecture Slide](https://github.com/samsuddoha/DBMS/tree/main/Lecture%201%20-%20intro)   |
+| <b>Lecture 1 </b><br> (Introduction to DS)  | 1 |<ul> <li> Concept of Data Structures </li> </ul>   | [Lecture Slide](https://github.com/samsuddoha/ds/blob/main/Lecture/Lecture_1/DS%20Lecture%201.pdf)   |
 
 
 
