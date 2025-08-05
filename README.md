@@ -36,6 +36,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 - **Introduction to Algorithms** by Thomas H. Cormen (4th Edition) [pdf]()
 - **Data Structures** by Seymour Lipschutz [pdf]()
 - **Algorithms** by Kevin Wayne (4th Edition)[https://mrce.in/ebooks/Algorithms%204th%20Ed.pdf]
+- **Data Structures using C** by E. Balagurusamy [https://github.com/samsuddoha/ds/blob/main/Books/Balagurusamy_Data%20Structures%20using%20C.pdf]
 
 ## 💻 Tools
 - **C/C++**:
@@ -55,8 +56,9 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 
 ## 👨‍🏫 Course Instructor
 If you need any assistance or have queries regarding the course, feel free to contact:
+
 **Md Samsuddoha**  
-Assistant Professor, Department of CSE  
-University of Barishal
-Room No: 1500
+Assistant Professor, Department of CSE  <br>
+University of Barishal <br>
+Room No: 1500 <br>
 📧 Email: [msamsuddoha@bu.ac.bd](mailto:msamsuddoha@bu.ac.bd)
