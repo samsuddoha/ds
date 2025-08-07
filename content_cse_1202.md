@@ -10,7 +10,6 @@
 
 ---
 
-
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
 | <b>Lecture 1 </b><br> (C Programming)  | 6 |<ul> <li> Variables, Data Types & Operators </li> <li> Conditional & Loop Statements</li> <li> Array, Strings</li> <li>Functions</li><li>Pointer & Structures</li></ul>|  [W3schools](https://www.w3schools.com/c/index.php) |
@@ -29,7 +28,7 @@
 |Assignment 2| 5% | TBA | TBA | TBA|
 |Lab Test 2| 5% | TBA | TBA | TBA|
 |Mid Term 2| - | TBA | TBA | TBA|
-|Final Exam| 40% | TBA | TBA | TBA|
+|Final Exam & Viva| 40% | TBA | TBA | TBA|
 |Project| 20% | TBA | TBA | TBA|
 
 
