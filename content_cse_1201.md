@@ -10,6 +10,9 @@
 | <b>Lecture 3 </b><br> (Arrays)  | 2 |<ul> <li> Concept of Array</li> <li>Types of Array</li> <li>Operations on Arrays</li> <li>2D Array</li> <li>Searching: Linear & Binary</li><li>Sorting: Bubble Sort</li></ul>   | Chapter 4 (Balagurusamay) & <br> [Lecture Slide](https://github.com/samsuddoha/ds/blob/main/Lecture/DS%20Lecture%203.pdf)   |
 | <b>Lecture 4 </b><br> (Linked Lists)  | 2 |<ul> <li> TBA</li></ul>   | Chapter 5 (Balagurusamay) & <br> [Lecture Slide]() |
 | <b>Lecture 5 </b><br> (Stacks & Queues)  | 2 |<ul> <li> TBA</li></ul>  | Chapter 6 & 7 (Balagurusamay) & <br> [Lecture Slide]() |
+| <b>Lecture 6 </b><br> (Trees)  | 2 |<ul> <li> TBA</li></ul>  | Chapter 8 (Balagurusamay) & <br> [Lecture Slide]() |
+| <b>Lecture 7 </b><br> (Graphs)  | 2 |<ul> <li> TBA</li></ul>  | Chapter 9 (Balagurusamay) & <br> [Lecture Slide]() |
+| <b>Lecture 8 </b><br> (Sorting & Searching)  | 2 |<ul> <li> TBA</li></ul>  | Chapter 10 (Balagurusamay) & <br> [Lecture Slide]() |
 
 ### Exams
 
