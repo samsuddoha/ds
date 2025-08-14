@@ -20,7 +20,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Class Test 1| 5%| 20 August | TBA | N/A|
+|Class Test 1| 5%| 21 August | TBA | N/A|
 |Mid Term 1| 20%| 11 Sept | TBA | N/A|
 |Assignment| 5% |  TBA | TBA | N/A|
 |Class Test 2/ <br> Presentation| 5% |  TBA | TBA | N/A|
