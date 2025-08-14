@@ -13,7 +13,7 @@
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
 | <b>Lecture 1 </b><br> (C Programming)  | 6 |<ul> <li> Variables, Data Types & Operators </li> <li> Conditional & Loop Statements</li> <li> Array, Strings</li> <li>Functions</li><li>Pointer & Structures</li></ul>|  [W3schools](https://www.w3schools.com/c/index.php) |
-| <b>Lecture 2 </b><br> (Array in DS) | 4 | <ul><li>Operations on Arrays </li> <li>2D Array (Matrix)</li> <li> Searching: Linear & Binary</li> <li> Sorting: Bubble Sort </li> <li>Exercises </li> </ul>   | N/A   |
+| <b>Lecture 2 </b><br> (Array in DS) | 4 | <ul><li>Operations on Arrays </li> <li>2D Array (Matrix)</li> <li> Searching: Linear & Binary</li> <li> Sorting: Bubble Sort </li> <li>Exercises </li> </ul>   | [Lecture Slide]()   |
 
 
 ### Exams
