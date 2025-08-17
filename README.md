@@ -33,7 +33,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 - [CSE-1202: Data Structures Lab (Lab)](https://github.com/samsuddoha/ds/blob/main/content_cse_1202.md)
 
 ## 📚 Text Books
-- **Introduction to Algorithms** by Thomas H. Cormen (4th Edition) [pdf]()
+- **Introduction to Algorithms** by Thomas H. Cormen (4th Edition) [pdf](https://github.com/samsuddoha/ds/blob/main/Books/COREMAN_Algorithms_3E.pdf)
 - **Data Structures** by Seymour Lipschutz [pdf]()
 - **Algorithms** by Kevin Wayne (4th Edition)[LINK](https://mrce.in/ebooks/Algorithms%204th%20Ed.pdf)
 - **Data Structures using C** by E. Balagurusamy [PDF](https://github.com/samsuddoha/ds/blob/main/Books/Balagurusamy_Data%20Structures%20using%20C.pdf)
