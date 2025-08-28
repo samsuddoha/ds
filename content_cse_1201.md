@@ -12,7 +12,8 @@
 | <b>Lecture 5 </b><br> (Stacks & Queues)  | 2 |<ul> <li> TBA</li></ul>  | Chapter 6 & 7 (Balagurusamay) & <br> [Lecture Slide]() |
 | <b>Lecture 6 </b><br> (Trees)  | 2 |<ul> <li> TBA</li></ul>  | Chapter 8 (Balagurusamay) & <br> [Lecture Slide]() |
 | <b>Lecture 7 </b><br> (Graphs)  | 2 |<ul> <li> TBA</li></ul>  | Chapter 9 (Balagurusamay) & <br> [Lecture Slide]() |
-| <b>Lecture 8 </b><br> (Sorting & Searching)  | 2 |<ul> <li> Searching (Linear & Binary)</li> <li>Sorting: Bubble Sort</li> <li>[Exercises](https://github.com/samsuddoha/ds/blob/main/Code/Searching%20and%20sorting/Problem%20List%201.pdf)</li>></ul>  | Chapter 10 (Balagurusamay) & <br> [Lecture Slide](https://github.com/samsuddoha/ds/blob/main/Lecture/DS%20Lecture%208.pdf) |
+| <b>Lecture 8 </b><br> (Sorting & Searching)  | 2 |<ul> <li> Searching (Linear & Binary)</li> <li>Sorting: Bubble Sort</li> <li>[Exercises](https://github.com/samsuddoha/ds/blob/main/Code/Searching%20and%20sorting/Problem%20List%201.pdf)</li>></ul>  | Chapter 10 (Balagurusamay) & <br> [Lecture Slide](https://github.com/samsuddoha/ds/blob/main/Lecture/DS%20Lecture%208.pdf) <br>
+[Searching Code](https://github.com/samsuddoha/ds/tree/main/Code/Searching)|
 
 ### Exams
 
