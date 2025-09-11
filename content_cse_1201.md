@@ -21,7 +21,7 @@
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
 |Class Test 1| 5%| 21 August | TBA | N/A|
-|<mark>Mid Term 1</mark>| 20%| 17 Sept (9.00am-11.00am) | Lecture (1,2,3,5,8) | N/A|
+|<mark>Mid Term 1</mark>| 20%| 17 Sept (9.00am-11.00am) | Lecture (2,5,8) | N/A|
 |Assignment| 5% |  TBA | TBA | N/A|
 |Class Test 2/ <br> Presentation| 5% |  TBA | TBA | N/A|
 |Midterm 2 (if needed)| 20% |  TBA | TBA | N/A|
