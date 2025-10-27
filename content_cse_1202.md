@@ -24,11 +24,25 @@
 |-----------|-------|-----------------|------------|---------|
 |Lab Test 1| 5%| TBA | NA | N/A|
 |Assignment 1| 5% |  TBA | NA | N/A|
-|Mid Term 1| 20%|  TBA | NA | N/A|
+|<mark>Mid Term 1</mark>| 20%| <mark> 13 Oct 25</mark> | NA | N/A|
 |Assignment 2| 5% | TBA | TBA | TBA|
 |Lab Test 2| 5% | TBA | TBA | TBA|
 |Mid Term 2| - | TBA | TBA | TBA|
 |Final Exam & Viva| 40% | TBA | TBA | TBA|
 |Project| 20% | TBA | TBA | TBA|
+
+### Project
+
+---
+
+|Task| Deadline| Marks | Instructions | Remarks|
+|-----------|-------|-----------------|------------|---------|
+|Project Idea Submission| 30 Oct| - | - | [Submit Here](https://docs.google.com/spreadsheets/d/1PsZccu0DD66SDe7VL6EnOkNvTvDW9BswzQUpm7Y6wjg/edit?usp=sharing)|
+|Project Proposal Submission| 7 Nov |  TBA | NA | N/A|
+|Project Progress| TBA| TBA | NA | N/A|
+|Final Presentation| TBA | TBA | TBA | TBA|
+
+### Codeforces Link
+ - Submit your code forces profile info in this Google Sheet: [LINK](https://docs.google.com/spreadsheets/d/1UcAabPew0zIM9n0LDgOVaL81buKAKVpf0lbY6IH0knU/edit?usp=sharing)
 
 
