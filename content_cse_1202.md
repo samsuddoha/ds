@@ -44,5 +44,8 @@
 
 ### Codeforces Link
  - Submit your code forces profile info in this Google Sheet: [LINK](https://docs.google.com/spreadsheets/d/1UcAabPew0zIM9n0LDgOVaL81buKAKVpf0lbY6IH0knU/edit?usp=sharing)
+ - You have to solve at least 20 problems within <mark>(22 Oct to 20 Nov)</mark>
+ - This will contains 10% of lab course.
+ - Problem Category: 8 (A), 6 (B), 3(C), 3 (D)
 
 
