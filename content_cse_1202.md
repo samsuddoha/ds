@@ -27,8 +27,8 @@
 |<mark>Mid Term</mark>| 20%| <mark> 11 Jan 26 (11.00am)</mark> | NA | N/A|
 |Assignment 2| 5% | TBA | TBA | TBA|
 |Lab Test 2| 5% | TBA | TBA | TBA|
-|Final Exam & Viva| 40% | 22 Jan 26 | - | -|
-|Project| 20% | 28 Jan 26 | - | -|
+|Final Exam & Viva| 40% | 29 Jan 26 | - | -|
+|Project| 20% | 5 Feb 26 | - | -|
 
 ### Project
 
