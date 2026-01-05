@@ -24,12 +24,11 @@
 |-----------|-------|-----------------|------------|---------|
 |Lab Test 1| 5%| TBA | NA | N/A|
 |Assignment 1| 5% |  TBA | NA | N/A|
-|<mark>Mid Term 1</mark>| 20%| <mark> 13 Oct 25</mark> | NA | N/A|
+|<mark>Mid Term</mark>| 20%| <mark> 11 Jan 26 (11.00am)</mark> | NA | N/A|
 |Assignment 2| 5% | TBA | TBA | TBA|
 |Lab Test 2| 5% | TBA | TBA | TBA|
-|Mid Term 2| - | TBA | TBA | TBA|
-|Final Exam & Viva| 40% | TBA | TBA | TBA|
-|Project| 20% | TBA | TBA | TBA|
+|Final Exam & Viva| 40% | 22 Jan 26 | - | -|
+|Project| 20% | 28 Jan 26 | - | -|
 
 ### Project
 
