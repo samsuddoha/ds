@@ -28,7 +28,7 @@
 |Assignment 2| 5% | TBA | TBA | TBA|
 |Lab Test 2| 5% | TBA | TBA | TBA|
 |Final Exam & Viva| 40% | 3 Feb 26 | - | -|
-|Project| 20% | 17 Feb 26 | - | -|
+|Project| 20% | 16 Feb 26 | - | - |
 
 ### Project
 
@@ -39,7 +39,7 @@
 |Project Idea Submission| 30 Oct| - | - | [Submit Here](https://docs.google.com/spreadsheets/d/1PsZccu0DD66SDe7VL6EnOkNvTvDW9BswzQUpm7Y6wjg/edit?usp=sharing)|
 |Project Proposal Submission| 7 Nov |  TBA | NA | N/A|
 |Project Progress| 5 Feb 26 | TBA | NA | N/A|
-|Final Presentation| TBA | TBA | TBA | TBA|
+|Final Presentation| 16 Feb 26 | TBA | TBA | TBA|
 
 ### Codeforces Link
  - Submit your code forces profile info in this Google Sheet: [LINK](https://docs.google.com/spreadsheets/d/1UcAabPew0zIM9n0LDgOVaL81buKAKVpf0lbY6IH0knU/edit?usp=sharing)
