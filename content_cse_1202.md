@@ -27,7 +27,7 @@
 |<mark>Mid Term</mark>| 20%| <mark> 27 Jan 26 (10.30am)</mark> | NA | N/A|
 |Assignment 2| 5% | TBA | TBA | TBA|
 |Lab Test 2| 5% | TBA | TBA | TBA|
-|Final Exam & Viva| 40% | 8 Feb 26 | - | -|
+|Final Exam & Viva| 40% | 3 Feb 26 | - | -|
 |Project| 20% | 17 Feb 26 | - | -|
 
 ### Project
@@ -38,7 +38,7 @@
 |-----------|-------|-----------------|------------|---------|
 |Project Idea Submission| 30 Oct| - | - | [Submit Here](https://docs.google.com/spreadsheets/d/1PsZccu0DD66SDe7VL6EnOkNvTvDW9BswzQUpm7Y6wjg/edit?usp=sharing)|
 |Project Proposal Submission| 7 Nov |  TBA | NA | N/A|
-|Project Progress| TBA| TBA | NA | N/A|
+|Project Progress| 5 Feb 26 | TBA | NA | N/A|
 |Final Presentation| TBA | TBA | TBA | TBA|
 
 ### Codeforces Link
