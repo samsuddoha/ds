@@ -24,10 +24,10 @@
 |-----------|-------|-----------------|------------|---------|
 |Lab Test 1| 5%| TBA | NA | N/A|
 |Assignment 1| 5% |  TBA | NA | N/A|
-|<mark>Mid Term</mark>| 20%| <mark> 27 Jan 26 (10.30am)</mark> | NA | N/A|
+|Mid Term| 20%|27 Jan 26 (10.30am) | NA | N/A|
 |Assignment 2| 5% | TBA | TBA | TBA|
 |Lab Test 2| 5% | TBA | TBA | TBA|
-|Final Exam & Viva| 40% | 5 Feb 26 (10.00am) | Linked List, Stack, Queue, Tree, Graph, Searching (Linear, Binary), Sorting (Selection Sort, Insertion Sort, Quick Sort, Counting Sort, Merge Sort, Heap Sort) | -|
+|<mark> Final Exam & Viva</mark>| 40% | 5 Feb 26 (10.00am) | Linked List, Stack, Queue, Tree, Graph, Searching (Linear, Binary), Sorting (Selection Sort, Insertion Sort, Quick Sort, Counting Sort, Merge Sort, Heap Sort) | -|
 |Project| 20% | 16 Feb 26 | - | - |
 
 ### Project
