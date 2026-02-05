@@ -43,7 +43,7 @@
 |-----------|-------|-----------------|------------|---------|
 |Project Idea Submission| 30 Oct| - | - | [Submit Here](https://docs.google.com/spreadsheets/d/1PsZccu0DD66SDe7VL6EnOkNvTvDW9BswzQUpm7Y6wjg/edit?usp=sharing)|
 |Project Proposal Submission| 7 Nov |  - | NA | N/A|
-|Project Progress| 5 Feb 26 | - | NA | N/A|
+|Project Progress| 8 Feb 26 | - | NA | N/A|
 |Final Presentation| 16 Feb 26 | - | - | -|
 
 ### Codeforces Link
