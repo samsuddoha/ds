@@ -41,15 +41,15 @@
 
 |Task| Deadline| Marks | Instructions | Remarks|
 |-----------|-------|-----------------|------------|---------|
-|Project Idea Submission| 30 Oct| - | - | [Submit Here](https://docs.google.com/spreadsheets/d/1PsZccu0DD66SDe7VL6EnOkNvTvDW9BswzQUpm7Y6wjg/edit?usp=sharing)|
+|Project Idea Submission| 30 Oct| - | - | [Submit Here]()|
 |Project Proposal Submission| 7 Nov |  - | NA | N/A|
 |Project Progress| 8 Feb 26 | - | NA | N/A|
 |Final Presentation| 16 Feb 26 | - | - | -|
 
 ### Codeforces Link
- - Submit your code forces profile info in this Google Sheet: [LINK](https://docs.google.com/spreadsheets/d/1UcAabPew0zIM9n0LDgOVaL81buKAKVpf0lbY6IH0knU/edit?usp=sharing)
- - You have to solve at least 20 problems within <mark>(22 Oct to 20 Nov)</mark>
+ - Submit your code forces profile info in this Google Sheet: [LINK]()
+ - You have to solve at least 50 problems within <mark>(25 Feb 26 to June 30)</mark>
  - This will contain 10% marks of lab course.
- - Problem Category: 8 (A), 6 (B), 3(C), 3 (D)
+ - Problem Category: 15 (A), 15 (B), 10(C), 10 (D)
 
 

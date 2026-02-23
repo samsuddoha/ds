@@ -1,5 +1,12 @@
-# CSE-1201: Data Structures  
-### Contents
+# CSE-1202: Data Structures Lab
+
+
+### Online Resources
+ - **C Programming** [W3schools](https://www.w3schools.com/c/index.php)
+ - **Data Structures** [W3Schools](https://www.w3schools.com/dsa/index.php)
+ - **DS Basic & Problem Practice** [GeeksForGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)
+
+### Contents of DS LAB
 
 ---
 
@@ -20,9 +27,29 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Class Test 1| 5%| - | - | -|
-|Mid Term| 20%| - | - | -|
-|Assignment| 5% |  - | - |-|
-|Class Test 2/ <br> Presentation| 5% |  - | - | N/A|
-|  Midterm 2 | 20% |  - | - | N/A|
-|**Final Exam**| 60% |  - | - | N/A|
+|Lab Test 1| 5%| - | NA | N/A|
+|Assignment 1| 5% |  - | NA | N/A|
+|Mid Term| 20%|27 Jan 26 (10.30am) | NA | N/A|
+|Assignment 2| 5% | - | - | -|
+|Lab Test 2| 5% | - | - | -|
+|<mark> Final Exam & Viva</mark>| 40% | 5 Feb 26 (10.00am) | Linked List, Stack, Queue, Tree, Graph, Searching (Linear, Binary), Sorting (Selection Sort, Insertion Sort, Quick Sort, Counting Sort, Merge Sort, Heap Sort) | -|
+|Project| 20% | 16 Feb 26 | - | - |
+
+### Project
+
+---
+
+|Task| Deadline| Marks | Instructions | Remarks|
+|-----------|-------|-----------------|------------|---------|
+|Project Idea Submission| 30 Oct| - | - | [Submit Here](https://docs.google.com/spreadsheets/d/1PsZccu0DD66SDe7VL6EnOkNvTvDW9BswzQUpm7Y6wjg/edit?usp=sharing)|
+|Project Proposal Submission| 7 Nov |  - | NA | N/A|
+|Project Progress| 8 Feb 26 | - | NA | N/A|
+|Final Presentation| 16 Feb 26 | - | - | -|
+
+### Codeforces Link
+ - Submit your code forces profile info in this Google Sheet: [LINK](https://docs.google.com/spreadsheets/d/1UcAabPew0zIM9n0LDgOVaL81buKAKVpf0lbY6IH0knU/edit?usp=sharing)
+ - You have to solve at least 20 problems within <mark>(22 Oct to 20 Nov)</mark>
+ - This will contain 10% marks of lab course.
+ - Problem Category: 8 (A), 6 (B), 3(C), 3 (D)
+
+
