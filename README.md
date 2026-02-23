@@ -1,7 +1,7 @@
 # Data Structures
 
 ## 🆕 Introduction
-Welcome to **Data Structures**, a foundational course in computer science designed to enhance your problem-solving skills and programming efficiency. Offered in **Fall 2025**, this course is divided into two complementary parts:
+Welcome to **Data Structures**, a foundational course in computer science designed to enhance your problem-solving skills and programming efficiency. Offered in **Spring 2026**, this course is divided into two complementary parts:
 - **CSE-1201: Data Structures (Theory, 3 credits)**
 - **CSE-1202: Data Structures Lab (Lab, 0.75 credits)**
 
@@ -50,8 +50,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 ## 📅 Class Routine
 | Course   | Day        | Time             | Room |
 |----------|-----------|------------------|------|
-| CSE-1201 | Monday     | 9:00 AM - 10:30 AM| C1   |
-| CSE-1201 | Wednesday  | 10:30 AM - 12:00 PM | C1 |
+| CSE-1201 | Monday     | 9:00 AM - 12:00 PM| C1   |
 | CSE-1202 | Thursday   | 10:30 AM - 1:30 PM | C1  |
 
 ## 👨‍🏫 Course Instructor

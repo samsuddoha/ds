@@ -47,6 +47,7 @@
 |Final Presentation| - | - | - | -|
 
 ### Codeforces Link
+---
  - Submit your code forces profile link in this Google Sheet: [Google Sheet LINK](https://docs.google.com/spreadsheets/d/1VI6EjMTD5Y5KuwEHhItodW0r6PdQfFn2bp3uM1Gr1lA/edit?gid=0#gid=0)
  - You have to solve at least 50 problems within <mark>(25 Feb 26 to June 30)</mark>
  - This will contain 10% marks of lab course.
