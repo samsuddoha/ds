@@ -20,9 +20,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Class Test 1| 5%| - | - | -|
+|<mark>Class Test </mark>| 10%| 23 April (8.30am) <br> Room: 6506 | Lecture Slide (1 to 4) | -|
 |Mid Term| 20%| - | - | -|
 |Assignment| 5% |  - | - |-|
-|Class Test 2/ <br> Presentation| 5% |  - | - | N/A|
-|  Midterm 2 | 20% |  - | - | N/A|
 |**Final Exam**| 60% |  - | - | N/A|

@@ -27,30 +27,19 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Lab Test 1| 5%| - | NA | N/A|
-|Assignment 1| 5% |  - | NA | N/A|
+|<mark>Lab Test </mark>| 10%| 23 April (9.30am) <br> Room: 6613 | Array, Linked List | -|
+|Assignment| 5% |  - | NA | N/A|
 |Mid Term| 20%|- | NA | N/A|
-|Assignment 2| 5% | - | - | -|
 |Lab Test 2| 5% | - | - | -|
 |<mark> Final Exam & Viva</mark>| 40% | - | | -|
-|Project| 20% | - | - | - |
+|50 Codeforces Problems/ Project| 20% | - | - | - |
 
-### Project
-
----
-
-|Task| Deadline| Marks | Instructions | Remarks|
-|-----------|-------|-----------------|------------|---------|
-|Project Idea Submission| - | - | - | [Submit Here]()|
-|Project Proposal Submission| - |  - | NA | N/A|
-|Project Progress| - | - | NA | N/A|
-|Final Presentation| - | - | - | -|
 
 ### Codeforces Link
 ---
  - Submit your code forces profile link in this Google Sheet: [Google Sheet LINK](https://docs.google.com/spreadsheets/d/1VI6EjMTD5Y5KuwEHhItodW0r6PdQfFn2bp3uM1Gr1lA/edit?gid=0#gid=0)
  - You have to solve at least 50 problems within <mark>(25 Feb 26 to June 30)</mark>
- - This will contain 10% marks of lab course.
- - Problem Category: 15 (A), 15 (B), 10(C), 10 (D)
+ - This will contain 20% marks of lab course.
+ - Problem Category: 10 (A), 10 (B), 10(C), 10 (D), 10 (E)
 
 
