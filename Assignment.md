@@ -1,6 +1,5 @@
 # 📌 Assignment Submission Instructions (CSE-1202)
 
-## Assignment Title
 **Creating Custom Header Files in C Programming**
 
 ---
@@ -73,7 +72,7 @@ int main() {
 
 ## Folder Structure
 
-Your project should look like this:
+Your folder should look like this:
 
 ```bash
 assignment(CSE-1202)/
