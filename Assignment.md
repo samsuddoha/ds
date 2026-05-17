@@ -4,18 +4,7 @@
 **Creating Custom Header Files in C Programming**
 
 ---
-
-## 🎯 Objective
-In this assignment, you will learn how to:
-
-- Create custom header files in C
-- Organize reusable functions
-- Include header files in another C program
-- Upload and submit your code using GitHub
-
----
-
-## 📋 Task Requirements
+## 📋 Task 
 
 You have to create a custom header file named:
 
@@ -91,26 +80,20 @@ assignment(CSE-1202)/
 │
 ├── abc.h
 ├── test.c
-└── README.md   (optional)
 ```
 
 ---
 
-# 🚀 GitHub Submission Instructions
+# 🚀 Submission Instructions via GitHub
 
 ## Step 1: Create a GitHub Account
 
-You must have a GitHub account.
-
-If you do not have an account, create one here:
-
-:contentReference[oaicite:0]{index=0}
+You must have a GitHub account. If you do not have an account, create one here: [GitHub](https://github.com)
 
 You may follow the provided video tutorial to learn:
 
-- How to create a GitHub account
-- How to create a repository
-- How to upload files
+- How to create a GitHub account - [Video Link](https://www.youtube.com/watch?v=HCqIdfNfjWk)
+- How to create a repository and upload files [Video Link](https://www.youtube.com/watch?v=w3_RCT0O1oM)
 
 ---
 
@@ -122,42 +105,21 @@ Create a new repository with the following name:
 assignment(CSE-1202)
 ```
 
-Upload all your assignment files to this repository.
+Upload all your assignment files to this repository. Your repository must be public.
 
 ---
 
-## Step 3: Repository Visibility
+## Step 3: Submit via Google Form
 
-Your repository must be:
-
-- ✅ Public
-
-So that the instructor can access your code.
-
----
-
-## Step 4: Copy Repository Link
-
-After uploading your files, copy your repository URL.
-
-Example:
-
-```bash
-https://github.com/your-username/assignment-CSE-1202
-```
-
----
-
-## Step 5: Submit via Google Form
-
-Submit your assignment using the provided Google Form.
+Submit your assignment using the provided Google Form. [Google Form Link](https://docs.google.com/forms/d/1_qetpHeYignH5azGEgonPjJhTmL4ulhBrAQGgNTUMz4/edit)
 
 In the form, you must provide:
 
-- Student Name
-- Student ID
-- Section
+-  Name
+- Email
+- Class Roll
 - GitHub Repository Link
+- Comments (If you have anything to add.)
 
 Example GitHub Link:
 
@@ -179,8 +141,8 @@ https://github.com/your-username/assignment-CSE-1202
 
 # 📅 Submission Deadline
 
-**To be announced by instructor.**
+**Submit your assignement by 20th May 2026.**
 
 ---
 
-Best wishes for your assignment 😊
+Best wishes for your assignment.

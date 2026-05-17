@@ -28,7 +28,7 @@
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
 |<mark>Lab Test </mark>| 10%| 23 April (9.30am) <br> Room: 6613 | Array, Linked List | -|
-|Assignment| 5% |  - | NA | N/A|
+|Assignment| 5% |  Deadline (20 May 2026) | Header Files | [Instructions](https://github.com/samsuddoha/ds/blob/main/Assignment.md)|
 |Mid Term| 20%|- | NA | N/A|
 |Lab Test 2| 5% | - | - | -|
 |<mark> Final Exam & Viva</mark>| 40% | - | | -|
