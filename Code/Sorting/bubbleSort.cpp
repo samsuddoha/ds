@@ -1,20 +1,7 @@
 //bubble sort
 #include<stdio.h>
+#include "sorting.h"
 
-void bubbleSort(int arr[],int n){
-    for(int i=0;i<n-1;i++){
-        int flag=0;
-        for(int j=0;j<n-i-1;j++){
-            if(arr[j]>arr[j+1]){
-                int temp=arr[j];
-                arr[j]=arr[j+1];
-                arr[j+1]=temp; 
-                flag=1;       
-            }
-        }
-        if(!flag) break;
-    }
- }
 void printArray(int a[], int n){
      for(int i=0;i<n;i++){
         printf("%d ", a[i]);
@@ -44,3 +31,13 @@ return 0;
 23 12 56 87 45
 
 */
+
+
+/*Create a headerfile with the following functions
+name.h
+
+max(), min (), prime(), odd(), even(), sum(), int digitSUm(int a), 
+int reverseNUmber(int a), plaindrome()
+Number system: decimanlToBinary()
+*/
+
