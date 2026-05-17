@@ -35,6 +35,7 @@ return 0;
 
 /*Create a headerfile with the following functions
 name.h
+mahfuj.h
 
 max(), min (), prime(), odd(), even(), sum(), int digitSUm(int a), 
 int reverseNUmber(int a), plaindrome()
