@@ -27,7 +27,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Lab Test/ Mid Lab | 20%| 10 June 26 | Array, Linked List | -|
+|Lab Test/ Mid Lab | 20%| 10 June 26 | Array, Linked List, Stack, <br> Queue, Seaching & Sorting | -|
 |<mark>Assignment </mark>| 7% |  Deadline (20 May 2026) | Header Files | [Instructions](https://github.com/samsuddoha/ds/blob/main/Assignment.md)|
 |Presentation| 8%| 20 May to 10 June | Codeforces Problem | N/A|
 |Attendance| 5% | - | - | -|
