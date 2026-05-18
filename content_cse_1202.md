@@ -29,7 +29,7 @@
 |-----------|-------|-----------------|------------|---------|
 |Lab Test/ Mid Lab | 20%| 10 June 26 | Array, Linked List, Stack, <br> Queue, Seaching & Sorting | -|
 |<mark>Assignment </mark>| 7% |  Deadline (20 May 2026) | Header Files | [Instructions](https://github.com/samsuddoha/ds/blob/main/Assignment.md)|
-|Presentation| 8%| 20 May to 10 June | Codeforces Problem | N/A|
+|Presentation| 8%| 20 May to 10 June| Codeforces Problem | [Presentation Topic](https://docs.google.com/spreadsheets/d/1VI6EjMTD5Y5KuwEHhItodW0r6PdQfFn2bp3uM1Gr1lA/edit?usp=sharing)|
 |Attendance| 5% | - | - | -|
 |Final Exam & Viva| 40% | - | | -|
 |50 Codeforces Problems/ Project| 20% | - | - | - |
