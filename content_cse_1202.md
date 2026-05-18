@@ -27,11 +27,11 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|<mark>Lab Test </mark>| 10%| 23 April (9.30am) <br> Room: 6613 | Array, Linked List | -|
-|Assignment| 5% |  Deadline (20 May 2026) | Header Files | [Instructions](https://github.com/samsuddoha/ds/blob/main/Assignment.md)|
-|Mid Term| 20%|- | NA | N/A|
-|Lab Test 2| 5% | - | - | -|
-|<mark> Final Exam & Viva</mark>| 40% | - | | -|
+|Lab Test/ Mid Lab | 20%| 10 June 26 | Array, Linked List | -|
+|<mark>Assignment </mark>| 7% |  Deadline (20 May 2026) | Header Files | [Instructions](https://github.com/samsuddoha/ds/blob/main/Assignment.md)|
+|Presentation| 8%| 20 May to 10 June | Codeforces Problem | N/A|
+|Attendance| 5% | - | - | -|
+|Final Exam & Viva| 40% | - | | -|
 |50 Codeforces Problems/ Project| 20% | - | - | - |
 
 
