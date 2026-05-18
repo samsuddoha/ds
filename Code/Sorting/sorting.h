@@ -1,5 +1,6 @@
 
 void bubbleSort(int arr[],int n);
+void SelectSort(int A[], int n);
 
 
 void bubbleSort(int arr[],int n){
@@ -16,3 +17,22 @@ void bubbleSort(int arr[],int n){
         if(!flag) break;
     }
  }
+
+ void SelectSort(int A[], int n){
+    for (int i = 0; i < n-1; i++)
+    {
+        int min=i;
+        for (int j = i+1; j < n; j++)
+        {
+            if(A[j]<A[min]){
+                min=j;
+            }
+        }
+        if(min!=i){
+           // swap(A[i], A[min]);
+            int temp=A[i];
+            A[i]=A[min];
+            A[min]=temp;
+        }
+    }
+}
