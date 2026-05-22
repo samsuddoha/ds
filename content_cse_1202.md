@@ -31,14 +31,14 @@
 |<mark>Assignment </mark>| 7% |  Deadline (20 May 2026) | Header Files | [Instructions](https://github.com/samsuddoha/ds/blob/main/Assignment.md)|
 |Presentation| 8%| 20 May to 10 June| Codeforces Problem | [Presentation Topic](https://docs.google.com/spreadsheets/d/1VI6EjMTD5Y5KuwEHhItodW0r6PdQfFn2bp3uM1Gr1lA/edit?usp=sharing)|
 |Attendance| 5% | - | - | -|
-|Final Exam & Viva| 40% | - | | -|
+|Final Exam & Viva| 40% | 15th June | | -|
 |50 Codeforces Problems/ Project| 20% | - | - | - |
 
 
 ### Codeforces Link
 ---
  - Submit your code forces profile link in this Google Sheet: [Google Sheet LINK](https://docs.google.com/spreadsheets/d/1VI6EjMTD5Y5KuwEHhItodW0r6PdQfFn2bp3uM1Gr1lA/edit?gid=0#gid=0)
- - You have to solve at least 50 problems within <mark>(25 Feb 26 to June 30)</mark>
+ - You have to solve at least 50 problems within <mark>(25 Feb 26 to 20 June 26)</mark>
  - This will contain 20% marks of lab course.
  - Problem Category: 10 (A), 10 (B), 10(C), 10 (D), 10 (E)
 
