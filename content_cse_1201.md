@@ -20,7 +20,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Mid Exam + Class Test| 30%| 10th June | Lecture Slide (1 to 5) | [Sample Question](https://github.com/samsuddoha/ds/tree/main/Lecture/Sample%20Q) |
+|Mid Exam + Class Test| 30%| 10th June (8.30am), Room: 6506 | Lecture Slide (1 to 5) | [Sample Question](https://github.com/samsuddoha/ds/tree/main/Lecture/Sample%20Q) |
 |Assignment| 5%| - | - | -|
 |Attendance| 5% |  - | - |-|
 |**Final Exam**| 60% |  - | - | [Sample Question](https://github.com/samsuddoha/ds/tree/main/Lecture/Sample%20Q) |
