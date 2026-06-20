@@ -32,7 +32,7 @@
 |Presentation| 8%| 20 May to 10 June| Codeforces Problem | [Presentation Topic](https://docs.google.com/spreadsheets/d/1VI6EjMTD5Y5KuwEHhItodW0r6PdQfFn2bp3uM1Gr1lA/edit?usp=sharing)|
 |Attendance| 5% | - | - | -|
 |Final Exam & Viva| 40% | 15th June (10.00am, Room: 6613) | Full Syllabus | -|
-|50 Codeforces Problems/ Project| 20% | - | - | - |
+|50 Codeforces Problems/ Project| 20% | 24 June (12.00pm) | - | [Submission Report Template](https://github.com/samsuddoha/ds/blob/main/Codeforces%20Problem/Codeforces%20Report.pdf) |
 
 
 ### Codeforces Link
